@@ -16,8 +16,8 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 
 ## Program:
 ```
-NAME    : Keerthana S
-REG NO  : 212222230066
+NAME    : Khabir Ahmed B
+REG NO  : 212221040083
 ```
 ```c++
 #include <stdio.h>
